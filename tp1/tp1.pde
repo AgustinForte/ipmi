@@ -1,3 +1,5 @@
+// Agustin Forte - comision 3 - legajo:120310/0
+
 PImage p;
 
 void setup(){
