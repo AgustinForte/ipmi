@@ -1,3 +1,4 @@
+// Agustin Forte LEGAJO:120310/0
 int pantalla,contador,movi;
 //Textos
 String texto1 = "          Hypersphere y The wave equation son dos de las instalaciones más emblemáticas de Paul Friedlander. Ambas obras se basan en su pasión por la física cuántica y otros aspectos de las ciencias modernas.";
